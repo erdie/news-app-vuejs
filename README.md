@@ -1,6 +1,6 @@
-# news-app
+# Simple News Apps Build from Vue
 
-> Nuxt.js project
+> Simple news apps build from vue, bootstrap, nuxt and axios
 
 ## Build Setup
 
@@ -20,4 +20,3 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
-
