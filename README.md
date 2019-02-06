@@ -1,6 +1,6 @@
-# Simple News Apps Build from Vue
+# Simple News Apps Build Using Vue
 
-> Simple news apps build from vue, bootstrap, nuxt and axios
+> Simple news apps build using vue, bootstrap, nuxt and axios
 
 ## Build Setup
 
